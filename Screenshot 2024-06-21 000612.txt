@@ -1,0 +1,5 @@
+The pie chart depicts the breakdown of recycled raw materials used in crumb rubber production by AMEA and Europe during FY23. Crumb rubber is a recycled material  processed from used tires and other rubber products. 
+	Crumb Rubber (57%): This represents the largest portion of the recycled raw materials used, indicating it’s the primary material for crumb rubber production.
+    Chlorobutyl Reclaim (26%): This slice signifies a significant utilization of reclaimed chlorobutyl rubber, a specific type of synthetic rubber often used in tires and hoses.
+    Butyl Reclaim (5%) and NR Reclaim (5%) : These two slices represent a smaller contribution of reclaimed butyl rubber and reclaimed natural rubber to the production process.
+    Ultrafine Reclaim (2%) : This smallest slice indicates the use of a very small proportion of ultra-fine reclaimed rubber, which is a specific type of recycled rubber with a very fine particle size.
