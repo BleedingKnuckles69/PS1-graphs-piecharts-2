@@ -1,0 +1,13 @@
+Here is a detailed description of the pie chart:
+
+    The title of the pie chart is “PCBAs having the Highest Share in the Indian EMS Industry”.
+    The pie chart shows that PCBAs (printed circuit board assemblies) make up the largest portion of the cost components of a box built in the Indian EMS industry, at approximately 60%.
+    Other cost components include:
+        Metals and Plastics: 17%
+        Magnetics: 11%
+        Wire & Harness: 6%
+        Packaging: 6%
+
+Overall Summary
+
+The pie chart breaks down the cost of a box built in the Indian EMS industry. PCBAs make up the most significant cost component, at roughly 60%. The remaining cost is divided amongst metals and plastics, magnetics, wire & harness, and packaging.

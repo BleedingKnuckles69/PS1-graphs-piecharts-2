@@ -1,0 +1,9 @@
+The pie chart shows the category of shareholding in Dr. Reddy's Laboratories Ltd. as on March 31, 2023. The total is divided into three categories: NSDL, CDSL, and physical shareholding.
+
+* NSDL (National Securities Depository Limited) holds the biggest share at 85.68%. 
+* CDSL (Central Depository Services (India) Limited) accounts for 14.32% of the shareholding.
+* Physical certificates account for 0% of the shareholding.
+
+**Overall Summary**
+
+In conclusion, the vast majority of Dr. Reddy's Laboratories Ltd. shares are held electronically through depositories. NSDL holds the larger portion at over 85% while CDSL holds a little less than 15%. Notably, the chart indicates that there are no physical shares outstanding for Dr. Reddy's Laboratories Ltd. as of March 31, 2023. It is important to note that this data only reflects a single point in time and the shareholding structure of the company could change over time. 

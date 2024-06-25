@@ -1,0 +1,8 @@
+The image is a bar chart that shows the gender distribution of employees at a company. The chart title is  “Total Employees (including contractual & full-time consultants)”.  The x-axis of the chart is labeled "Gender" and the y-axis is labeled "%". There are two data bars, one colored blue and labeled "Men" and one colored pink and labeled "Women". 
+
+The data shows that there is a significant difference in the percentage of men and women employed at the company. Men make up the majority of the employees at 63.7%, whereas women make up 36.3% of the employees. 
+
+Overall summary: 
+The bar chart depicts a gender imbalance in a company’s workforce. Men significantly outnumber women as employees. There is no information available to explain the reasons behind this imbalance. It could be due to company policies, societal norms, or the industry itself. 
+ 
+Some companies  have instituted policies aimed at achieving gender balance in their workforce. These efforts may include outreach programs to recruit women in STEM fields or unconscious bias training for hiring managers. 

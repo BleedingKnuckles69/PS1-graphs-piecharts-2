@@ -1,0 +1,9 @@
+The pie chart titled "Mutual Funds" shows the percentage of investment held by different investor categories in India.
+
+    Resident Individuals account for the largest portion of mutual fund investors, at approximately 60%.
+    Non-Resident Indians (NRIs) constitute roughly 20% of investors.
+    The remaining 20% is divided among various investor categories including Bodies Corporate, Qualified Institutional Buyers (QIBs), Promotional and Employee groups, and others.
+
+Overall, resident individuals are the primary investors in mutual funds in India, followed by NRIs. Institutional investors like QIBs and Bodies Corporate make up a smaller proportion of mutual fund investors in India.
+
+Important to Note: It is important to acknowledge that this pie chart does not depict the specific types of mutual fund investments tercih [preferred] by each investor category.
