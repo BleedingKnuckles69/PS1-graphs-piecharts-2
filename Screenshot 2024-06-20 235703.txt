@@ -1,0 +1,10 @@
+The chart titled “Consumer Confidence on Track” shows the Consumer Confidence Index (CCI) in India over a period of time. The x-axis represents time and appears to show months and years, but there are no specific dates labeled. The y-axis shows the CCI, with values ranging from 40 to 140 with no specified units. There are two lines on the chart, labeled “Current Situation Index” and “Future Expectations Index”.
+
+The Current Situation Index appears to show a generally downward trend over the time period covered by the chart, starting at around 116 and reaching a low of around 85. The Future Expectations Index  shows a similar downward trend, starting at around 140 and reaching a low of around 100.
+
+It is difficult to say for certain what caused the downward trend in the CCI based on the information in this chart alone. However, there are a number of possible explanations, such as a slowdown in the economy, rising inflation, or an increase in unemployment.
+
+Overall Summary
+
+The chart shows a downward trend in both the Current Situation Index and the Future Expectations Index of the Consumer Confidence Index (CCI) in India. This suggests that consumers are becoming less confident about the current state of the economy and their expectations for the future. Without additional information, it is difficult to say for certain what caused the downward trend in the CCI. However, there are a number of possible explanations, such as a slowdown in the economy, rising inflation,
+ or an increase in unemployment.

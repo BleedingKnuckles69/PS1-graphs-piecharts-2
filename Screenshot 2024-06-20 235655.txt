@@ -1,0 +1,13 @@
+The chart is a line graph titled "India's IIP Performance" . The y-axis represents the Index value and the x-axis represents the month over three fiscal years (FY) 2020-21,
+
+ 2021-22 and 2022-23. The index values range from 50 to 170 with no specified units.
+
+The data for December 2022, January 2023 and February 2023 is labeled provisional.
+
+There is a general upward trend in the IIP from April 2020 to February 2023. The IIP starts at 101.5 in April 2020 and reaches a high of 143.4 in November 2021. There is a significant drop in the IIP in December 2021 (down to 121.1) and January 2022 (down to 115.7) followed by a general upward trend through February 2023 (135.1).
+
+It is important to note that the IIP measures the growth of the manufacturing sector only. It does not take into account the performance of other sectors of the Indian economy.
+
+Overall Summary
+
+The chart shows a general upward trend in the Indian Industrial Production (IIP) from April 2020 to February 2023, with a significant dip in December 2021 and January 2022. The data is provisional for the most recent three months (December 2022, January 2023 and February 2023). It is important to note that the IIP only measures the performance of the manufacturing sector and does not take into account the performance of other sectors of the Indian economy.

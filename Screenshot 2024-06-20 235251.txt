@@ -1,0 +1,22 @@
+    Groundwater Consumption (million m³):
+        2018: 2.30
+        2019: 1.83
+        2020: 1.49
+        2021: 1.74
+        2022-23: 1.95
+
+    Groundwater consumption has varied over the years, decreasing from 2.30 million m³ in 2018 to 1.49 million m³ in 2020, then rising again to 1.95 million m³ in 2022-23. This variability could be due to changes in groundwater availability, usage patterns, or water management policies.
+
+    Water Recycled (million m³):
+        2018: 0.92
+        2019: 0.97
+        2020: 0.86
+        2021: 0.94
+        2022-23: 1.28
+
+    The volume of water recycled has generally increased, from 0.92 million m³ in 2018 to 1.28 million m³ in 2022-23. This indicates a growing emphasis on recycling and reusing water to promote sustainability.
+
+Overall Summary:
+The data indicates fluctuations in groundwater consumption with a general trend of reduction until a slight increase in recent years, reflecting potential efforts to manage and reduce dependence on groundwater. The increase in water recycling volumes over the years highlights a positive shift towards sustainable water management practices, focusing on reducing waste and promoting the reuse of water. These insights emphasize the importance of balancing water consumption with sustainable practices to ensure long-term resource availability and environmental conservation. ​
+
+​

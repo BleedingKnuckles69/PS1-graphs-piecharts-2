@@ -1,0 +1,6 @@
+The chart title is “Segment-Wise Revenue (%)”. The pie chart shows the distribution of revenue from two business segments: Retail and Institutional. The Institutional segment makes up the larger portion of the pie chart, at 77%, while Retail makes up the remaining 23%. There is no data available to explain the reason for the difference in revenue between the two segments. It is possible that the business is a manufacturer that sells mostly to other businesses (institutional), with a smaller portion of sales being direct to consumers (retail). 
+
+
+Overall Summary
+
+The pie chart shows that the majority of the revenue comes from the Institutional segment, at 77%.  However, it is important to note that without knowing more about the company, it is difficult to draw any conclusions about the reasons for this. 

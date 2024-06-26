@@ -1,0 +1,21 @@
+The chart title is “Overall Equity Turnover, F&O Market Share, Cash Market Share, Commodity Market Share”. The x-axis represents fiscal years (FY), with FY21 being the earliest and FY23 the most recent. The y-axis shows percentages for market share.
+
+The chart displays four lines representing equity turnover, F&O market share, cash market share, and commodity market share. All four lines show an upward trend over the three fiscal years.
+
+    Equity turnover increased by 587 basis points (bps) from 16.0% in FY21 to 21.8% in FY23.
+    F&O market share increased by 595 bps from 15.9% in FY21 to 21.9% in FY23.
+    Cash market share decreased by 395 bps from 21.4% in FY21 to 17.4% in FY23.
+    Commodity market share increased by 2480 bps from 33.0% in FY21 to 57.8% in FY23.
+
+The text at the bottom of the chart shows the year-over-year (YoY) growth for each market share category between FY22 and FY23. It also shows the three-year improvement for each category between FY21 and FY23.
+
+Insights:
+
+    The equity turnover rate and the market share of the F&O and commodity markets have all increased significantly over the past three fiscal years. This suggests a growing trend of trading in these markets.
+    The cash market share has decreased over the same period. This suggests a relative shift away from cash market trading towards other instruments.
+
+Overall Summary
+
+The chart illustrates a three-year trend (FY21-FY23) in the Indian stock market. Equity turnover, F&O market share, and commodity market share have all increased, while cash market share has decreased.
+
+ This suggests a move away from cash market trading and towards derivative instruments and commodities. It is important to note that the reasons for these trends are likely complex and not  definitively shown by this chart.

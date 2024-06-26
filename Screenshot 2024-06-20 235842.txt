@@ -1,0 +1,13 @@
+The chart titled "Hazardous Waste Management at Anupam Rasayan" shows the different methods used to manage hazardous waste at the company.  In total, 100% of the hazardous waste is managed through four methods: reuse (by-product), recycle, co-processing, and landfill.
+
+* Reuse (by-product) accounts for 8.44% of the hazardous waste. 
+* Recycle accounts for the largest portion of hazardous waste at 61.64%. 
+* Co-processing accounts for 15.82% of hazardous waste.
+* Landfill accounts for the smallest portion of hazardous waste management at 14.10%.
+
+Co-processing and recycling are the two largest methods used to manage hazardous waste at Anupam Rasayan. This suggests that the company prioritizes these methods which could be due to them being more economical or environmentally friendly methods of hazardous waste disposal. 
+
+
+Overall Summary
+
+Anupam Rasayan appears to prioritize recycling and co-processing to manage hazardous waste, with these two methods accounting for 77.46% of total hazardous waste management. Landfill is the least used method, accounting for only 14.10% of hazardous waste management. This suggests that Anupam Rasayan has a robust hazardous waste management plan that emphasizes recycling and co-processing over landfilling. It is important to note that without additional information on the specific types of hazardous waste generated and the details of the co-processing method used, it is difficult to draw definitive conclusions about the environmental impact of Anupam Rasayan's hazardous waste management practices.        

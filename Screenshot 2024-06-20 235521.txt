@@ -1,0 +1,13 @@
+The chart titled  “Contribution to gross revenue (%)” compares the distribution of revenue from two fiscal years (FY22 and FY23) for four financial product categories: Broking and depository operations, Client funding, Distribution of third-party financial products, and Others. 
+
+* **Broking and depository operations** generates the most revenue in both FY22 (80.8%) and FY23 (80.9%). There is a slight increase in revenue contribution from this category year-over-year.
+* **Client funding** contributes a significantly smaller portion of the revenue compared to Broking and depository operations in both FY22 (11.6%) and FY23 (9.5%). There is a decrease in revenue contribution from this category year-over-year.
+* **Distribution of third-party financial products** contributes the least revenue out of the four categories in both FY22 (6.1%) and FY23 (8.6%). There is a slight increase in revenue contribution from this category year-over-year.
+* **Others** contributes a small portion of the revenue in both FY22 (1.4%) and FY23 (1.0%). There is a slight decrease in revenue contribution from this category year-over-year.
+
+Overall, Broking and depository operations is the dominant revenue source, followed by Client funding, Distribution of third-party financial products, and Others. There is a slight increase in revenue contribution from Broking and depository operations and Distribution of third-party financial products, while there is a decrease in revenue contribution from Client funding and Others from FY22 to FY23. 
+
+
+**Overall Summary**
+
+The pie chart reveals that Broking and depository operations is the most important revenue source for the company, generating over 80% of the gross revenue in both fiscal years FY22 and FY23. Client funding is the second most important revenue source, but it contributes significantly less than Broking and depository operations. The remaining two categories, Distribution of third-party financial products and Others, contribute a small portion of the revenue. It is important to note that the data only covers two fiscal years and may not represent long-term trends. 

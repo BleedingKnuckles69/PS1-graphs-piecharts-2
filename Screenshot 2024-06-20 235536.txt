@@ -1,0 +1,16 @@
+“Our performance in numbers” that shows the quarter-wise operational performance of a company over a period of two fiscal years (FY23 and FY24).
+
+ The chart displays various performance metrics including Average Daily Turnover (ADTO) for Retail Equity, Retail F&O, and Retail Cash; market share for Retail Cash and Commodity Turnover; and Total Orders.
+
+    Retail Equity ADTO shows a significant increase from Quarter 1 of FY23 (14.488) to Quarter 4 of FY23 (18.488), then a decrease in Quarters 1 and 2 of FY24 (14.478 and 12.168) before increasing again in Quarter 3 (to 16.9).
+    Retail F&O ADTO follows a similar pattern to Retail Equity ADTO with a significant increase from Quarter 1 of FY23 (14.138) to Quarter 4 of FY23 (18.169), then a decrease in Quarters 1 and 2 of FY24 (14.138 and 11.885) before increasing again in Quarter 3 (to 20.8).
+    Retail Cash ADTO fluctuates throughout the period with a high of 36 in Quarter 1 of FY23 and a low of 27 in Quarter 3 of FY24.
+    Market share for Retail Cash Turnover fluctuates throughout the period with a high of 13.8% in Quarter of FY23 and a low of 12.3% in Quarter of FY24.
+    Market share for Commodity Turnover is not available for FY23 but shows an increase from 153% in Quarter 1 of FY24 to 173% in Quarter 3 of FY24.
+    Total Orders show a significant increase throughout the entire period, from 207 in Quarter 1 of FY23 to 226 in Quarter 4 FY23, and then from 230 in Quarter 1 of FY24 to 215 in Quarter 3 of FY24.
+
+It is important to note that the chart title “Our performance in numbers” suggests that these metrics are positive indicators of performance, but without additional context it is difficult to say for certain. An increase in ADTO could indicate that customers are trading more frequently, but it could also indicate that order sizes are decreasing. Market share is a useful metric for comparing performance to competitors, but without knowing the overall market size and trends, it is difficult to draw conclusions about the company’s performance.
+
+Overall Summary
+
+The chart titled “Our performance in numbers” shows mixed trends in the company’s operational performance over a two-year period. Average Daily Turnover (ADTO) for Retail Equity and Retail F&O show an increase over the first year, but then decrease in the first half of the second year before increasing again in the third quarter. Market share for Retail Cash Turnover fluctuates throughout the period. Market share data for Commodity Turnover is only available for the second year and shows an increase. Total Orders increase throughout the entire period.  Without additional context, it is difficult to say definitively whether these trends are positive or negative for the company.

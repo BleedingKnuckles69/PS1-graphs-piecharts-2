@@ -1,0 +1,13 @@
+The chart titled  “Team Strength vs Retention Rate” shows a comparison of average team strength and average retention rate over five fiscal years (FY),
+
+ likely for a company or organization. The y-axis represents the value, and the x-axis represents the fiscal year. Team strength is measured in number of employees (No.) and retention rate is measured as a percentage (%).
+
+The average team strength is consistently higher than the average retention rate across all five years. In FY19, the average team strength was 3,909 employees, whereas the average retention rate was 82%.  There is a slight decrease in team strength in FY20 (3,298) and FY21 (3,193) followed by a sharper decrease in FY22 (2,908) and FY23 (2,401).  Retention rate follows a similar trend with a decrease in all years except FY21 which remained at 88%.  Specifically, the retention rate decreased from 82% in FY19 to 69% in FY23.
+
+Looking at the changes year-over-year, the largest decrease in team strength occurred between FY21 and FY22, with a decrease of 285 employees. The largest decrease in retention rate also occurred between the same period, FY21 and FY22, with a decrease of 4 percentage points.
+
+Overall Summary
+
+The chart shows that the average team strength has decreased over the past five fiscal years, while the average retention rate has also decreased. The largest decrease in both team strength and retention rate occurred between FY21 and FY22. It is important to consider possible explanations for these trends, such as downsizing or restructuring within the company, or changes in the job market that may have made it easier for employees to find new jobs.
+
+Without additional information, it is difficult to say for certain what caused the trends observed in this chart. However, the data suggests that the company may have been experiencing some challenges with retaining employees in recent years.

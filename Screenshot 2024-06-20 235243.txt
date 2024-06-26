@@ -1,0 +1,20 @@
+    Surface Water Consumption (million m³):
+        2018: 1.78
+        2019: 1.92
+        2020: 1.96
+        2021: 1.96
+        2022-23: 2.06
+
+    Surface water consumption has shown a steady increase from 1.78 million m³ in 2018 to 2.06 million m³ in 2022-23. This trend indicates a growing demand for surface water resources over the years.
+
+    Harvested Water Consumption (million m³):
+        2019: 1.46
+        2019: 1.83
+        2020: 1.49
+        2021: 1.96
+        2022-23: 2.62
+
+    Harvested water consumption has also increased significantly, from 1.46 million m³ in 2019 to 2.62 million m³ in 2022-23. This reflects enhanced efforts in water harvesting and utilization of this resource.
+
+Overall Summary:
+The data showcases an upward trend in both surface and harvested water consumption. The increase in surface water usage underscores rising water demands, potentially due to population growth and industrial activities. Simultaneously, the significant rise in harvested water consumption suggests improved water management practices, focusing on sustainable usage of available water resources. These trends highlight the importance of sustainable water management to meet growing demands while conserving natural resources.

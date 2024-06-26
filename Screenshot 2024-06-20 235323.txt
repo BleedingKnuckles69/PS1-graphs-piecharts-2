@@ -1,0 +1,11 @@
+the pie chart shows the sector-wise share of cement consumption in India. The pie chart is titled "Sector-Wise Share of Cement Consumption.
+
+" The slices of the pie chart are labeled "Housing," "Infrastructure," and "Industrial and Commercial Buildings."
+
+    Housing accounts for 15% of the total cement consumption.
+    Infrastructure accounts for 20% of the total cement consumption.
+    Industrial and Commercial Buildings account for 65% of the total cement consumption.
+
+Overall Summary
+
+Industrial and commercial buildings consume the most cement (65%), followed by infrastructure (20%) and housing (15%) in India. This suggests that industrial and commercial activities are the biggest drivers of cement consumption in India. It would be beneficial to see data over a longer period of time to identify any trends in cement consumption across these sectors. Construction analysts might be interested in further details on the types of industrial and commercial buildings being constructed to get a better understanding of the cement consumption trends.
