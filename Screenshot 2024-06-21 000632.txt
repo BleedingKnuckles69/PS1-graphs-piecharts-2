@@ -1,1 +1,5 @@
-The pie chart illustrates the amount of recycled or reused water in the United States in 2019. It reveals that recycled water represents approximately 41% of the total annual water withdrawal in the country. This signifies a substantial contribution of recycled water to the overall water supply. The remaining 59% of water withdrawal still relies on freshwater sources.
+The pie chart reveals that recycled water plays a significant role in meeting the water demands of the United States in 2019. Around 41% of the total annual water withdrawal in the country comes from recycled water sources. This indicates a substantial progress in water conservation and reuse efforts. However, the remaining 59% of water withdrawal still relies on freshwater sources, highlighting the continued importance of freshwater resource management.
+
+**Overall Summary**
+
+In 2019, the United States achieved a 41% share of recycled water in its total annual water withdrawal, demonstrating a remarkable accomplishment in water reuse. Despite this progress, freshwater sources are still heavily relied upon (59%). This pie chart underscores the importance of both continued investment in water recycling technologies and sustainable management of freshwater resources to meet the growing water demands of the country. 

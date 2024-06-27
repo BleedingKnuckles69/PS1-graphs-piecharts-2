@@ -1,3 +1,10 @@
-The pie chart depicts the investment growth across various sectors of Investec Securities for the fiscal years FY15, FY17, FY20, FY21, and FY25 (likely projected). The two largest slices represent:
-Pathology (57%): This constitutes the majority of the investments, suggesting a strong focus on the pathology sector by Investec Securities. Pathology is the medical field that studies and diagnoses diseases by examining tissues, organs, and bodily fluids.
-Radiology (43%): This slice indicates a significant investment in the radiology sector, which deals with medical imaging techniques like X-rays, CT scans, and MRIs for diagnosing and treating medical conditions. The pie chart highlights Investec Securities' prioritization of the healthcare sector, particularly in pathology and radiology.
+The pie chart reveals Investec Securities' investment growth across various sectors for fiscal years FY15, FY17, FY20, FY21, and FY25 (likely projected). Notably, the healthcare sector dominates the investment portfolio.
+
+* Pathology takes the largest slice at 57%, showcasing a substantial focus on this field. Pathology involves examining tissues, organs, and bodily fluids to diagnose diseases.
+* Radiology follows closely with a 43% share, indicating significant investment in medical imaging technologies like X-rays, CT scans, and MRIs used for diagnosis and treatment.
+
+These figures highlight Investec Securities' clear prioritization of the healthcare sector, particularly within pathology and radiology.
+
+**Overall Summary**
+
+A pie chart analysis of Investec Securities' investment growth across various sectors from FY15 to FY25 (likely projected) reveals a strong preference for the healthcare sector. Over half (57%) of the investments are concentrated in pathology, while radiology holds a significant share (43%). This data suggests that Investec Securities prioritizes opportunities within the healthcare industry, particularly those focused on diagnostics through pathology and radiology techniques. It is important to consider external factors that might influence this investment strategy, such as potential for growth within these healthcare sub-sectors or alignment with broader market trends. 

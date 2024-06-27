@@ -1,1 +1,11 @@
-The pie chart shows the share of raw material consumed across different categories for Real Life Sciences in FY23. Natural rubber accounts for the largest portion, at 39%, followed by synthetic rubber at 33%. Carbon black constitutes 15% of the raw materials, while "Other Raw Materials," which likely include associated process materials, make up the remaining 13%.
+The pie chart depicts the distribution of raw materials consumed by Real Life Sciences in fiscal year (FY) 23. Natural rubber reigns supreme, constituting 39% of the total raw materials used. Synthetic rubber follows closely behind, accounting for 33%. Carbon black plays a significant role as well, making up 15% of the raw materials. The remaining 13% falls under the category of "Other Raw Materials," which presumably includes associated process materials essential for production.
+
+**Inferred insights:**
+
+Real Life Sciences appears to rely heavily on natural and synthetic rubber, likely due to their properties being particularly suited for their products. The substantial use of natural rubber suggests the production of latex-based goods or rubber components requiring elasticity. Synthetic rubber, on the other hand, might be necessary for products demanding durability or specific chemical resistance.
+
+The presence of carbon black, a reinforcing agent, further strengthens the notion that Real Life Sciences manufactures rubber products requiring strength and resilience.
+
+**Overall Summary**
+
+An analysis of the pie chart reveals that natural rubber (39%) and synthetic rubber (33%) are the primary raw materials consumed by Real Life Sciences in FY23. This heavy reliance on rubber suggests a specialization in latex or rubber-based product manufacturing. The use of carbon black (15%) reinforces this idea by indicating a focus on products requiring strength and durability. While "Other Raw Materials" (13%) encompass a broader category, it likely includes process materials necessary for rubber product manufacturing. It would be beneficial to understand the specific products manufactured by Real Life Sciences to gain a more comprehensive picture of their raw material consumption choices. 

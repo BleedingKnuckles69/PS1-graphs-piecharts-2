@@ -1,5 +1,13 @@
-The pie chart depicts the breakdown of recycled raw materials used in crumb rubber production by AMEA and Europe during FY23. Crumb rubber is a recycled material  processed from used tires and other rubber products. 
-	Crumb Rubber (57%): This represents the largest portion of the recycled raw materials used, indicating it’s the primary material for crumb rubber production.
-    Chlorobutyl Reclaim (26%): This slice signifies a significant utilization of reclaimed chlorobutyl rubber, a specific type of synthetic rubber often used in tires and hoses.
-    Butyl Reclaim (5%) and NR Reclaim (5%) : These two slices represent a smaller contribution of reclaimed butyl rubber and reclaimed natural rubber to the production process.
-    Ultrafine Reclaim (2%) : This smallest slice indicates the use of a very small proportion of ultra-fine reclaimed rubber, which is a specific type of recycled rubber with a very fine particle size.
+The pie chart reveals the composition of recycled raw materials used in crumb rubber production for AMEA (Asia-Pacific, Middle East, and Africa) and Europe during fiscal year FY23. Crumb rubber, a recycled material derived from used tires and other rubber products, forms the bulk of the raw materials at 57%.
+
+* Following crumb rubber is Chlorobutyl Reclaim (26%), signifying a substantial use of reclaimed chlorobutyl rubber, a specific type of synthetic rubber commonly used in tires and hoses.
+* Butyl Reclaim (5%) and NR Reclaim (5%) collectively contribute a smaller portion of the raw materials, indicating a lower reliance on reclaimed butyl and natural rubber in crumb rubber production.
+* Ultrafine Reclaim accounts for a mere 2% of the raw materials, suggesting minimal use of this specific type of recycled rubber with very fine particles.
+
+**Inferred insights:**
+
+The data suggests a strong preference for crumb rubber and reclaimed chlorobutyl rubber in crumb rubber production for AMEA and Europe. This could be due to factors such as cost-effectiveness, availability, or specific performance characteristics of these materials. The minimal use of Ultrafine Reclaim might be due to its properties or niche applications in crumb rubber production.
+
+**Overall Summary**
+
+An analysis of the pie chart demonstrates that crumb rubber (57%) and Chlorobutyl Reclaim (26%) are the dominant recycled raw materials used in crumb rubber production for AMEA and Europe in FY23. This suggests a focus on cost-effective and potentially high-performance recycled materials. It is important to consider the environmental and economic benefits of using these recycled materials compared to virgin rubber in crumb rubber production.  
